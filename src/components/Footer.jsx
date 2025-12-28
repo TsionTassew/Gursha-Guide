@@ -2,9 +2,9 @@ export default function Footer() {
     return (
         <div className="footer container">
             <div className="footer-section">
-                <p className="title">GurshaGuide.com</p>
+                <p className="title">Taste of Ethiopia</p>
                 <p>
-                    Gursha Guide is your go-to platform for discovering and sharing authentic Habesha dishes. Explore traditional recipes, learn cooking tips, and celebrate the rich culinary heritage of Ethiopia.
+                    Taste of Ethiopia is your go-to platform for discovering and sharing authentic Habesha dishes. Explore traditional recipes, learn cooking tips, and celebrate the rich culinary heritage of Ethiopia.
                 </p>
                 <p>&copy; 2025 | All Rights Reserved</p>
             </div>

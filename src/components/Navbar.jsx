@@ -34,7 +34,7 @@ import { Link , useLocation } from 'react-router-dom';
   return (
     <>
     <div className="navbar container">
-    <a href="#!" className="logo">G<span>ur</span>sha Guide</a>
+    <a href="#!" className="logo">Taste<span> of </span>Ethiopia</a>
     <div className="nav-links">
       { links.map(link => (
         <Link  className={location.pathname === link.path ? " active" : ""} to={link.path} key={link.name}>{link.name}</Link>
